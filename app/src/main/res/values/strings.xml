@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Quotes App</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="quit_button">Quit</string>
+    <string name="delete_button">Delete</string>
+    <string name="quote_text">Quote</string>
+</resources>

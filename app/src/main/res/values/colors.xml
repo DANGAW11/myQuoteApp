@@ -1,0 +1,13 @@
+<resources>
+    <!-- Standard background color -->
+    <color name="background_color">#88A096</color>
+
+    <!-- Button colors, where delete button has specific signal color to inform user of the drastic action -->
+    <color name="button_color">#8A4F7D</color>
+    <color name="delete_button_color">#EF8275</color>
+
+    <!-- standard text color for better contrast on these dark buttons -->
+    <color name="text_color">#FFFFFF</color>
+
+    <color name="disabled_button_color">#8C8785</color>
+</resources>
